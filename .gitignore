@@ -1,7 +1,6 @@
-# "cabal build" output directories
+.stack-work/
+/.cabal-sandbox
+/cabal-dev
+/cabal.sandbox.config
 /dist
 /Examples/dist
-
-/.cabal-sandbox
-/cabal.sandbox.config
-/cabal-dev
